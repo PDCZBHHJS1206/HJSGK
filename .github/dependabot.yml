@@ -1,0 +1,11 @@
+#要开始使用从属机器人版本更新,您需要指定
+#要更新的包裹生态系统以及包裹清单的位置。
+#请参阅所有配置选项的文档:
+# https://docs。github。com/github/administrating-a-repository/configuration-options-for-dependency-updates
+
+版本:2
+更新:
+-包-生态系统:" " #有关可能的值，请参见文档
+目录:"/ " #包清单的位置
+时间表:
+间隔:“每周”
